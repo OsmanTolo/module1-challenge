@@ -10,7 +10,7 @@ This is demonstrated by taking an existing website code with various accessibili
 
 Visit this github pages link to access the website. You can navigate through the different sections of the page by clicking the links in the top navigation bar.
 
-[Screenshot of the webpage](./solution/assets/images/screenshot.png)
+![Screenshot of the webpage](./solution/assets/images/screenshot.png)
 
 ## Credits
 
